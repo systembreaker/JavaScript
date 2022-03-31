@@ -1,0 +1,25 @@
+body {
+  background-color: #2c2f32;
+}
+h1 {
+  color: whitesmoke;
+}
+.le {
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+li .le {
+  direction: ltr;
+  color: #b8b3b3;
+  font-size: larger;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+.png {
+  width: 30%;
+  height: 10%;
+  display: flex;
+  padding: 5px;
+}
